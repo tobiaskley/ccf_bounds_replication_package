@@ -10,7 +10,7 @@ There are three parts to this repository:
 * generating figures and tables.
 
 Each part is described separately in the following sections.
-The corresponding scripts to the three steps are orgenised in the folder
+The corresponding scripts to the three steps are organised in the folder
 `sim` and code that we considered of general use are in the folder `R`.
 
 # Obtaining the Wasserstein distances via simulation
