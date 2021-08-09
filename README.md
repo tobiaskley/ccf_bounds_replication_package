@@ -45,8 +45,8 @@ Next, the simulated Wasserstein distances from step 1, which were stored in
 750 separate files are now rearranged into one data.frame `W1`.
 To this end, the script `sim/1_Wasserstein_distance/sim_merge.R` has to be run.
 The files from step 1 are expected to be in a folder `out/` of the working
-directory. This can be changed in line 27 of `sim_merge.R`. The output of step 2
-is `W1.Rdata` is expected to be in `sim/1_Wasserstein_distance` for generation
+directory. This can be changed in line 27 of `sim_merge.R`. The output of step 2,
+`W1.Rdata`, is expected to be in `sim/1_Wasserstein_distance` for generation
 of the figures and tables (part 3 of the repository).
 For convenience the file `W1.Rdata` is also available from the repository.
 
