@@ -1,7 +1,7 @@
 # Scope
 This repository contains R code that can be used to replicate the results in
 
-> Finite sample distributional error bounds for empirical cross-covariances
+> Finite sample distributional error bounds for empirical autocovariances and cross-covariances
 
 There are three parts to this repository:
 
